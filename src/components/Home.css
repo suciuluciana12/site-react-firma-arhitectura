@@ -1,0 +1,82 @@
+.home {
+  background-color: #f5f5f5;
+  padding: 30px;
+  margin-top: 60px;
+}
+.title {
+  font-size: 30px;
+  font-weight: 700;
+  text-align: center;
+  position: relative;
+  padding: 20px;
+}
+/* .title::after {
+  content: '';
+  display: block;
+  width: 100px;
+  height: 2px;
+  background-color: #696969;
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+} */
+
+.home1,
+.home2 {
+  padding: 0;
+}
+.home1 {
+  margin: 0 auto;
+  background-color: white;
+}
+
+.home-card {
+  width: 18rem;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.card-img {
+  height: 200px;
+}
+.contact {
+  margin-top: 30px;
+  padding: 40px 5px;
+}
+
+.subtitlu {
+  font-size: 20px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.textSubtitlu {
+  margin-left: 10px;
+}
+.date {
+  margin-top: 12px;
+}
+.map {
+  margin-top: 30px;
+  width: 375px;
+  height: 400px;
+}
+@media only screen and (min-width: 870px) {
+  .contact {
+    display: flex;
+  }
+  .map {
+    width: 700px;
+    height: 400px;
+  }
+}
+
+@media only screen and (max-width: 870px) {
+  .contact {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+}

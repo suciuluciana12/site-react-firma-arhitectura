@@ -1,0 +1,52 @@
+.galleryWrap {
+  display: flex;
+  flex-grow: 1;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+  height: 50%;
+  gap: 10px;
+  margin: 30px auto;
+}
+
+.galleryWrap .single {
+  cursor: pointer;
+  border: 1px solid grey;
+  padding: 5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.galleryWrap .single img {
+  max-width: 200px;
+  max-height: 200px;
+}
+
+.galleryWrap .single img:hover {
+  transform: scale(1.02);
+}
+.slider {
+  font-size: 30px;
+}
+.sliderWrap {
+  width: 100%;
+  height: auto;
+  margin: 20px auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.btnPrev,
+.btnClose,
+.btnNext {
+  cursor: pointer;
+}
+.btnPrev:hover,
+.btnClose:hover,
+.btnNext:hover {
+  transform: scale(1.2);
+}

@@ -1,0 +1,2030 @@
+[
+  {
+    "id": 1,
+    "titlu_categorie": "Case",
+    "categorie": "case",
+    "subcategorie": "Casa A",
+    "beneficiar": "",
+    "locatie": " ",
+    "an_proiectare": "",
+    "thumbnail": "/images/case/casa_A/casa_A_5.jpg",
+    "path": "casa_A",
+    "galleryImages": [
+      { "src": "/images/case/casa_A/casa_A_1.jpg" },
+      { "src": "/images/case/casa_A/casa_A_2.jpg" },
+      { "src": "/images/case/casa_A/casa_A_3.jpg" },
+      { "src": "/images/case/casa_A/casa_A_4.jpg" },
+      { "src": "/images/case/casa_A/casa_A_5.jpg" },
+      {
+        "src": "/images/case/casa_A/casa_A_6.jpg",
+        "descriere": "Plan demisol"
+      },
+      {
+        "src": "/images/case/casa_A/casa_A_7.jpg",
+        "descriere": "Plan parter"
+      },
+      {
+        "src": "/images/case/casa_A/casa_A_8.jpg",
+        "descriere": "Secțiune longitudinală"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "titlu_categorie": "Case",
+    "categorie": "case",
+    "subcategorie": "Casa B",
+    "beneficiar": "",
+    "locatie": " ",
+    "an_proiectare": "",
+    "thumbnail": "/images/case/casa_B/casa_B_4.jpg",
+    "path": "casa_B",
+    "galleryImages": [
+      { "src": "/images/case/casa_B/casa_B_1.jpg" },
+      { "src": "/images/case/casa_B/casa_B_2.jpg" },
+      { "src": "/images/case/casa_B/casa_B_3.jpg" },
+      { "src": "/images/case/casa_B/casa_B_4.jpg" },
+      { "src": "/images/case/casa_B/casa_B_5.jpg" },
+      { "src": "/images/case/casa_B/casa_B_6.jpg" },
+      { "src": "/images/case/casa_B/casa_B_7.jpg" },
+      { "src": "/images/case/casa_B/casa_B_8.jpg" }
+    ]
+  },
+  {
+    "id": 3,
+    "titlu_categorie": "Case",
+    "categorie": "case",
+    "subcategorie": "Casa C",
+    "beneficiar": "",
+    "locatie": " ",
+    "an_proiectare": "2015",
+    "thumbnail": "/images/case/casa_C/casa_C_1.jpg",
+    "path": "casa_C",
+    "galleryImages": [
+      { "src": "/images/case/casa_C/casa_C_1.jpg" },
+      { "src": "/images/case/casa_C/casa_C_2.jpg" },
+      { "src": "/images/case/casa_C/casa_C_3.jpg" },
+      { "src": "/images/case/casa_C/casa_C_4.jpg" },
+      { "src": "/images/case/casa_C/casa_C_5.jpg" },
+      { "src": "/images/case/casa_C/casa_C_6.jpg" },
+      { "src": "/images/case/casa_C/casa_C_7.jpg" },
+      { "src": "/images/case/casa_C/casa_C_8.jpg" },
+      { "src": "/images/case/casa_C/casa_C_9.jpg" },
+      { "src": "/images/case/casa_C/casa_C_10.jpg" },
+      { "src": "/images/case/casa_C/casa_C_11.jpg" }
+    ]
+  },
+  {
+    "id": 4,
+    "titlu_categorie": "Case",
+    "categorie": "case",
+    "subcategorie": "Casa D",
+    "beneficiar": "",
+    "locatie": " ",
+    "an_proiectare": "2012",
+    "thumbnail": "/images/case/casa_D/casa_D_1.jpg",
+    "path": "casa_D",
+    "galleryImages": [
+      { "src": "/images/case/casa_D/casa_D_1.jpg" },
+      { "src": "/images/case/casa_D/casa_D_2.jpg" },
+      { "src": "/images/case/casa_D/casa_D_3.jpg" },
+      { "src": "/images/case/casa_D/casa_D_4.jpg" },
+      { "src": "/images/case/casa_D/casa_D_5.jpg" },
+      { "src": "/images/case/casa_D/casa_D_6.jpg" },
+      { "src": "/images/case/casa_D/casa_D_7.jpg" }
+    ]
+  },
+  {
+    "id": 5,
+    "titlu_categorie": "Case",
+    "categorie": "case",
+    "subcategorie": "Casa E",
+    "beneficiar": "",
+    "locatie": "",
+    "an_proiectare": "",
+    "thumbnail": "/images/case/casa_E/casa_E_1.jpg",
+    "path": "casa_E",
+    "galleryImages": [
+      { "src": "/images/case/casa_E/casa_E_1.jpg" },
+      { "src": "/images/case/casa_E/casa_E_2.jpg" },
+      { "src": "/images/case/casa_E/casa_E_3.jpg" },
+      { "src": "/images/case/casa_E/casa_E_4.jpg" },
+      { "src": "/images/case/casa_E/casa_E_5.jpg" }
+    ]
+  },
+  {
+    "id": 6,
+    "titlu_categorie": "Case",
+    "categorie": "case",
+    "subcategorie": "Casa F",
+    "beneficiar": "",
+    "locatie": " ",
+    "an_proiectare": "",
+    "thumbnail": "/images/case/casa_F/casa_F_1.jpg",
+    "path": "casa_F",
+    "galleryImages": [
+      { "src": "/images/case/casa_F/casa_F_1.jpg" },
+      { "src": "/images/case/casa_F/casa_F_2.jpg" },
+      { "src": "/images/case/casa_F/casa_F_3.jpg" },
+      { "src": "/images/case/casa_F/casa_F_4.jpg" },
+      { "src": "/images/case/casa_F/casa_F_5.jpg" },
+      {
+        "src": "/images/case/casa_F/casa_F_6.jpg",
+        "descriere": "Plan etaj"
+      },
+      {
+        "src": "/images/case/casa_F/casa_F_7.jpg",
+        "descriere": "Plan parter"
+      },
+      {
+        "src": "/images/case/casa_F/casa_F_8.jpg",
+        "descriere": "Plan subsol"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "titlu_categorie": "Case",
+    "categorie": "case",
+    "subcategorie": "Casa G",
+    "beneficiar": "",
+    "locatie": "Popești, jud. Cluj",
+    "an_proiectare": "",
+    "thumbnail": "/images/case/casa_G/casa_G_1.jpg",
+    "path": "casa_G",
+    "galleryImages": [{ "src": "/images/case/casa_G/casa_G_1.jpg" }]
+  },
+  {
+    "id": 8,
+    "titlu_categorie": "Case",
+    "categorie": "case",
+    "subcategorie": "Casa H",
+    "beneficiar": "",
+    "locatie": " Feleac,jud. Cluj",
+    "an_proiectare": "",
+    "thumbnail": "/images/case/casa_H/casa_H_1.jpeg",
+    "path": "casa_H",
+    "galleryImages": [
+      { "src": "/images/case/casa_H/casa_H_1.jpeg" },
+      { "src": "/images/case/casa_H/casa_H_2.jpeg" },
+      { "src": "/images/case/casa_H/casa_H_3.jpeg" },
+      { "src": "/images/case/casa_H/casa_H_4.jpeg" }
+    ]
+  },
+  {
+    "id": 9,
+    "titlu_categorie": "Case",
+    "categorie": "case",
+    "subcategorie": "Casa I",
+    "beneficiar": "",
+    "locatie": " Tăuți,jud. Cluj",
+    "an_proiectare": "",
+    "thumbnail": "/images/case/casa_I/casa_I_1.jpg",
+    "path": "casa_I",
+    "galleryImages": [
+      { "src": "/images/case/casa_I/casa_I_1.jpg" },
+      { "src": "/images/case/casa_I/casa_I_2.jpg" },
+      { "src": "/images/case/casa_I/casa_I_3.jpg" },
+      { "src": "/images/case/casa_I/casa_I_4.jpg" },
+      { "src": "/images/case/casa_I/casa_I_5.jpg" }
+    ]
+  },
+  {
+    "id": 10,
+    "titlu_categorie": "Case",
+    "categorie": "case",
+    "subcategorie": "Casa J",
+    "beneficiar": "",
+    "locatie": " ",
+    "an_proiectare": "",
+    "thumbnail": "/images/case/casa_J/casa_J_1.jpg",
+    "path": "casa_J",
+    "galleryImages": [
+      { "src": "/images/case/casa_J/casa_J_1.jpg" },
+      { "src": "/images/case/casa_J/casa_J_2.jpg" },
+      { "src": "/images/case/casa_J/casa_J_3.jpg" },
+      { "src": "/images/case/casa_J/casa_J_4.jpg" },
+      { "src": "/images/case/casa_J/casa_J_5.jpg" },
+      {
+        "src": "/images/case/casa_J/casa_J_6.jpg",
+        "descriere": "Plan etaj"
+      },
+      {
+        "src": "/images/case/casa_J/casa_J_7.jpg",
+        "descriere": "Plan parter"
+      },
+      {
+        "src": "/images/case/casa_J/casa_J_8.jpg",
+        "descriere": "Plan subsol"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "titlu_categorie": "Case",
+    "categorie": "case",
+    "subcategorie": "Casa L",
+    "beneficiar": "",
+    "locatie": " ",
+    "an_proiectare": "",
+    "thumbnail": "/images/case/casa_L/casa_L_1.jpg",
+    "path": "casa_L",
+    "galleryImages": [
+      { "src": "/images/case/casa_L/casa_L_1.jpg" },
+      { "src": "/images/case/casa_L/casa_L_2.jpg" },
+      { "src": "/images/case/casa_L/casa_L_3.jpg" },
+      { "src": "/images/case/casa_L/casa_L_4.jpg" },
+      { "src": "/images/case/casa_L/casa_L_5.jpg" },
+      { "src": "/images/case/casa_L/casa_L_6.jpg" }
+    ]
+  },
+  {
+    "id": 12,
+    "titlu_categorie": "Case",
+    "categorie": "case",
+    "subcategorie": "Casa M",
+    "beneficiar": "",
+    "locatie": "Popești, jud. Cluj",
+    "an_proiectare": "",
+    "thumbnail": "/images/case/casa_M/casa_M_1.jpg",
+    "path": "casa_M",
+    "galleryImages": [
+      { "src": "/images/case/casa_M/casa_M_1.jpg" },
+      { "src": "/images/case/casa_M/casa_M_2.jpg" },
+      { "src": "/images/case/casa_M/casa_M_3.jpg" },
+      { "src": "/images/case/casa_M/casa_M_4.jpg" },
+      { "src": "/images/case/casa_M/casa_M_5.jpg" },
+      { "src": "/images/case/casa_M/casa_M_6.jpg" }
+    ]
+  },
+  {
+    "id": 13,
+    "titlu_categorie": "Case",
+    "categorie": "case",
+    "subcategorie": "Casa N",
+    "beneficiar": "",
+    "locatie": "Popești, jud. Cluj",
+    "an_proiectare": "",
+    "thumbnail": "/images/case/casa_N/casa_N_1.jpg",
+    "path": "casa_N",
+    "galleryImages": [
+      { "src": "/images/case/casa_N/casa_N_1.jpg" },
+      { "src": "/images/case/casa_N/casa_N_2.jpg" },
+      { "src": "/images/case/casa_N/casa_N_3.jpg" },
+      { "src": "/images/case/casa_N/casa_N_4.jpg" },
+      { "src": "/images/case/casa_N/casa_N_5.jpg" }
+    ]
+  },
+  {
+    "id": 14,
+    "titlu_categorie": "Case",
+    "categorie": "case",
+    "subcategorie": "Casa O",
+    "beneficiar": "",
+    "locatie": " Popești,jud. Cluj",
+    "an_proiectare": "",
+    "thumbnail": "/images/case/casa_O/casa_O_1.jpg",
+    "path": "casa_O",
+    "galleryImages": [
+      { "src": "/images/case/casa_F/casa_F_1.jpg" },
+      { "src": "/images/case/casa_F/casa_F_2.jpg" },
+      { "src": "/images/case/casa_F/casa_F_3.jpg" },
+      { "src": "/images/case/casa_F/casa_F_4.jpg" },
+      { "src": "/images/case/casa_F/casa_F_5.jpg" },
+      { "src": "/images/case/casa_F/casa_F_6.jpg" },
+      { "src": "/images/case/casa_F/casa_F_7.jpg" },
+      { "src": "/images/case/casa_F/casa_F_8.jpg" }
+    ]
+  },
+  {
+    "id": 15,
+    "titlu_categorie": "Case",
+    "categorie": "case",
+    "subcategorie": "Casa P",
+    "beneficiar": "",
+    "locatie": "",
+    "an_proiectare": "",
+    "thumbnail": "/images/case/casa_P/casa_P_1.jpg",
+    "path": "casa_P",
+    "galleryImages": [
+      { "src": "/images/case/casa_P/casa_P_1.jpg" },
+      { "src": "/images/case/casa_P/casa_P_2.jpg" },
+      { "src": "/images/case/casa_P/casa_P_3.jpg" },
+      { "src": "/images/case/casa_P/casa_P_4.png" },
+      { "src": "/images/case/casa_P/casa_P_5.jpg" },
+      { "src": "/images/case/casa_P/casa_P_6.jpg" }
+    ]
+  },
+  {
+    "id": 16,
+    "titlu_categorie": "Case",
+    "categorie": "case",
+    "subcategorie": "Casa R",
+    "beneficiar": "",
+    "locatie": "Popești, jud. Cluj",
+    "an_proiectare": "",
+    "thumbnail": "/images/case/casa_R/casa_R_1.jpg",
+    "path": "casa_R",
+    "galleryImages": [
+      { "src": "/images/case/casa_R/casa_R_1.jpg" },
+      { "src": "/images/case/casa_R/casa_R_2.jpg" },
+      { "src": "/images/case/casa_R/casa_R_3.jpg" }
+    ]
+  },
+  {
+    "id": 17,
+    "titlu_categorie": "Blocuri",
+    "categorie": "blocuri",
+    "subcategorie": "Bloc A",
+    "beneficiar": "",
+    "locatie": "jud.Cluj",
+    "an_proiectare": "",
+    "thumbnail": "/images/blocuri/bloc_A/bloc_A_1.jpg",
+    "path": "bloc_A",
+    "galleryImages": [
+      { "src": "/images/blocuri/bloc_A/bloc_A_1.jpg" },
+      { "src": "/images/blocuri/bloc_A/bloc_A_2.jpg" },
+      { "src": "/images/blocuri/bloc_A/bloc_A_3.jpg" },
+      { "src": "/images/blocuri/bloc_A/bloc_A_4.jpg" },
+      { "src": "/images/blocuri/bloc_A/bloc_A_5.jpg" },
+      { "src": "/images/blocuri/bloc_A/bloc_A_6.jpg" },
+      { "src": "/images/blocuri/bloc_A/bloc_A_7.jpg" }
+    ]
+  },
+  {
+    "id": 18,
+    "titlu_categorie": "Blocuri",
+    "categorie": "blocuri",
+    "subcategorie": "Bloc B",
+    "beneficiar": "",
+    "locatie": "jud.Cluj",
+    "an_proiectare": "",
+    "thumbnail": "/images/blocuri/bloc_B/bloc_B_1.jpg",
+    "path": "bloc_B",
+    "galleryImages": [
+      { "src": "/images/blocuri/bloc_B/bloc_B_1.jpg" },
+      { "src": "/images/blocuri/bloc_B/bloc_B_2.jpg" },
+      { "src": "/images/blocuri/bloc_B/bloc_B_3.jpg" },
+      { "src": "/images/blocuri/bloc_B/bloc_B_4.jpg" },
+      { "src": "/images/blocuri/bloc_B/bloc_B_5.jpg" },
+      {
+        "src": "/images/blocuri/bloc_B/bloc_B_6.jpg",
+        "descriere": "Plan nivel"
+      },
+      { "src": "/images/blocuri/bloc_B/bloc_B_7.jpg", "descriere": "Secțiune" }
+    ]
+  },
+  {
+    "id": 19,
+    "titlu_categorie": "Blocuri",
+    "categorie": "blocuri",
+    "subcategorie": "Bloc C",
+    "beneficiar": "",
+    "locatie": "Sibiu",
+    "an_proiectare": "",
+    "thumbnail": "/images/blocuri/bloc_C/bloc_C_1.jpg",
+    "path": "bloc_C",
+    "galleryImages": [
+      { "src": "/images/blocuri/bloc_C/bloc_C_1.jpg" },
+      { "src": "/images/blocuri/bloc_C/bloc_C_2.jpg" },
+      { "src": "/images/blocuri/bloc_C/bloc_C_3.jpg" },
+      { "src": "/images/blocuri/bloc_C/bloc_C_4.jpg" },
+      { "src": "/images/blocuri/bloc_C/bloc_C_5.jpg" },
+      { "src": "/images/blocuri/bloc_C/bloc_C_6.jpg" },
+      { "src": "/images/blocuri/bloc_C/bloc_C_7.jpg" },
+      { "src": "/images/blocuri/bloc_C/bloc_C_8.jpg" },
+      { "src": "/images/blocuri/bloc_C/bloc_C_9.jpg" }
+    ]
+  },
+  {
+    "id": 20,
+    "titlu_categorie": "Blocuri",
+    "categorie": "blocuri",
+    "subcategorie": "Bloc D",
+    "beneficiar": "",
+    "locatie": "Baciu,jud.Cluj",
+    "an_proiectare": "",
+    "thumbnail": "/images/blocuri/bloc_D/bloc_D_1.jpg",
+    "path": "bloc_D",
+    "galleryImages": [
+      { "src": "/images/blocuri/bloc_D/bloc_D_1.jpg" },
+      { "src": "/images/blocuri/bloc_D/bloc_D_2.jpg" },
+      { "src": "/images/blocuri/bloc_D/bloc_D_3.jpg" },
+      { "src": "/images/blocuri/bloc_D/bloc_D_4.jpg" },
+      { "src": "/images/blocuri/bloc_D/bloc_D_5.jpg" },
+      { "src": "/images/blocuri/bloc_D/bloc_D_6.jpg" },
+      { "src": "/images/blocuri/bloc_D/bloc_D_7.jpg" },
+      { "src": "/images/blocuri/bloc_D/bloc_D_8.jpg" },
+      { "src": "/images/blocuri/bloc_D/bloc_D_9.jpg" }
+    ]
+  },
+  {
+    "id": 21,
+    "titlu_categorie": "Blocuri",
+    "categorie": "blocuri",
+    "subcategorie": "Bloc E",
+    "beneficiar": "",
+    "locatie": "jud.Cluj",
+    "an_proiectare": "",
+    "thumbnail": "/images/blocuri/bloc_E/bloc_E_1.jpg",
+    "path": "bloc_E",
+    "galleryImages": [
+      { "src": "/images/blocuri/bloc_E/bloc_E_1.jpg" },
+      { "src": "/images/blocuri/bloc_E/bloc_E_2.jpg" },
+      { "src": "/images/blocuri/bloc_E/bloc_E_3.jpg" },
+      { "src": "/images/blocuri/bloc_E/bloc_E_4.jpg" },
+      { "src": "/images/blocuri/bloc_E/bloc_E_5.jpg" },
+      { "src": "/images/blocuri/bloc_E/bloc_E_6.jpg" },
+      { "src": "/images/blocuri/bloc_E/bloc_E_7.jpg" }
+    ]
+  },
+  {
+    "id": 22,
+    "titlu_categorie": "Blocuri",
+    "categorie": "blocuri",
+    "subcategorie": "Bloc F",
+    "beneficiar": "",
+    "locatie": "jud.Cluj",
+    "an_proiectare": "",
+    "thumbnail": "/images/blocuri/bloc_F/bloc_F_1.jpg",
+    "path": "bloc_F",
+    "galleryImages": [
+      { "src": "/images/blocuri/bloc_F/bloc_F_1.jpg" },
+      { "src": "/images/blocuri/bloc_F/bloc_F_2.jpg" },
+      { "src": "/images/blocuri/bloc_F/bloc_F_3.jpg" }
+    ]
+  },
+  {
+    "id": 23,
+    "titlu_categorie": "Blocuri",
+    "categorie": "blocuri",
+    "subcategorie": "Bloc G",
+    "beneficiar": "",
+    "locatie": "jud.Cluj",
+    "an_proiectare": "2015",
+    "thumbnail": "/images/blocuri/bloc_G/bloc_G_1.jpg",
+    "path": "bloc_G",
+    "galleryImages": [
+      { "src": "/images/blocuri/bloc_G/bloc_G_1.jpg" },
+      { "src": "/images/blocuri/bloc_G/bloc_G_2.jpg" },
+      { "src": "/images/blocuri/bloc_G/bloc_G_3.jpg" },
+      { "src": "/images/blocuri/bloc_G/bloc_G_4.jpg" },
+      { "src": "/images/blocuri/bloc_G/bloc_G_5.jpg" },
+      { "src": "/images/blocuri/bloc_G/bloc_G_6.jpg" },
+      { "src": "/images/blocuri/bloc_G/bloc_G_7.jpg" },
+      { "src": "/images/blocuri/bloc_G/bloc_G_8.jpg" },
+      { "src": "/images/blocuri/bloc_G/bloc_G_9.jpg" }
+    ]
+  },
+  {
+    "id": 24,
+    "titlu_categorie": "Blocuri",
+    "categorie": "blocuri",
+    "subcategorie": "Bloc H",
+    "beneficiar": "",
+    "locatie": "jud.Cluj",
+    "an_proiectare": "",
+    "thumbnail": "/images/blocuri/bloc_H/bloc_H_1.jpg",
+    "path": "bloc_H",
+    "galleryImages": [
+      { "src": "/images/blocuri/bloc_H/bloc_H_1.jpg" },
+      { "src": "/images/blocuri/bloc_H/bloc_H_2.jpg" },
+      { "src": "/images/blocuri/bloc_H/bloc_H_3.jpg" },
+      { "src": "/images/blocuri/bloc_H/bloc_H_4.jpg" },
+      { "src": "/images/blocuri/bloc_H/bloc_H_5.jpg" }
+    ]
+  },
+  {
+    "id": 25,
+    "titlu_categorie": "Industrial",
+    "categorie": "industrial",
+    "subcategorie": "Hală industrială și birouri-Cluj",
+    "beneficiar": "",
+    "locatie": "jud.Cluj",
+    "an_proiectare": "",
+    "thumbnail": "/images/industrial/hala_industriala_birouri_cluj/hala_industriala_birouri_cluj_1.jpg",
+    "path": "hala_industriala_birouri_cluj",
+    "galleryImages": [
+      {
+        "src": "/images/industrial/hala_industriala_birouri_cluj/hala_industriala_birouri_cluj_1.jpg"
+      },
+      {
+        "src": "/images/industrial/hala_industriala_birouri_cluj/hala_industriala_birouri_cluj_2.jpg"
+      },
+      {
+        "src": "/images/industrial/hala_industriala_birouri_cluj/hala_industriala_birouri_cluj_3.jpg"
+      },
+      {
+        "src": "/images/industrial/hala_industriala_birouri_cluj/hala_industriala_birouri_cluj_4.jpg"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "titlu_categorie": "Industrial",
+    "categorie": "industrial",
+    "subcategorie": "Stație de betoane-Cluj",
+    "beneficiar": "",
+    "locatie": "jud.Cluj",
+    "an_proiectare": "",
+    "thumbnail": "/images/industrial/statie_betoane_cluj/statie_betoane_cluj_1.jpg",
+    "path": "statie_betoane_cluj",
+    "galleryImages": [
+      {
+        "src": "/images/industrial/statie_betoane_cluj/statie_betoane_cluj_1.jpg"
+      },
+      {
+        "src": "/images/industrial/statie_betoane_cluj/statie_betoane_cluj_2.jpg"
+      },
+      {
+        "src": "/images/industrial/statie_betoane_cluj/statie_betoane_cluj_3.jpg"
+      },
+      {
+        "src": "/images/industrial/statie_betoane_cluj/statie_betoane_cluj_4.jpg"
+      },
+      {
+        "src": "/images/industrial/statie_betoane_cluj/statie_betoane_cluj_5.jpg"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "titlu_categorie": "Industrial",
+    "categorie": "industrial",
+    "subcategorie": "Hală producție Cluj ",
+    "beneficiar": "",
+    "locatie": "jud.Cluj",
+    "an_proiectare": "",
+    "thumbnail": "/images/industrial/hala_productie_cluj/hala_productie_cluj_1.jpg",
+    "path": "hala_productie_cluj",
+    "galleryImages": [
+      {
+        "src": "/images/industrial/hala_productie_cluj/hala_productie_cluj_1.jpg"
+      },
+      {
+        "src": "/images/industrial/hala_productie_cluj/hala_productie_cluj_2.jpg"
+      },
+      {
+        "src": "/images/industrial/hala_productie_cluj/hala_productie_cluj_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "titlu_categorie": "Industrial",
+    "categorie": "industrial",
+    "subcategorie": "Hală service Cluj ",
+    "beneficiar": "",
+    "locatie": "jud.Cluj",
+    "an_proiectare": "",
+    "thumbnail": "/images/industrial/hala_service_cluj/hala_service_cluj_1.jpg",
+    "path": "hala_service_cluj",
+    "galleryImages": [
+      {
+        "src": "/images/industrial/hala_service_cluj/hala_service_cluj_1.jpg"
+      },
+      {
+        "src": "/images/industrial/hala_service_cluj/hala_service_cluj_2.jpg"
+      },
+      {
+        "src": "/images/industrial/hala_service_cluj/hala_service_cluj_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "titlu_categorie": "Industrial",
+    "categorie": "industrial",
+    "subcategorie": "Hală service auto  Zalău ",
+    "beneficiar": "",
+    "locatie": "jud.Cluj",
+    "an_proiectare": "2013",
+    "thumbnail": "/images/industrial/hala_service_auto_zalau/hala_service_auto_zalau_1.jpg",
+    "path": "hala_service_auto_zalau",
+    "galleryImages": [
+      {
+        "src": "/images/industrial/hala_service_auto_zalau/hala_service_auto_zalau_1.jpg"
+      },
+      {
+        "src": "/images/industrial/hala_service_auto_zalau/hala_service_auto_zalau_2.jpg"
+      },
+      {
+        "src": "/images/industrial/hala_service_auto_zalau/hala_service_auto_zalau_3.jpg"
+      },
+      {
+        "src": "/images/industrial/hala_service_auto_zalau/hala_service_auto_zalau_4.jpg"
+      },
+      {
+        "src": "/images/industrial/hala_service_auto_zalau/hala_service_auto_zalau_5.jpg"
+      },
+      {
+        "src": "/images/industrial/hala_service_auto_zalau/hala_service_auto_zalau_6.jpg"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "titlu_categorie": "Industrial",
+    "categorie": "industrial",
+    "subcategorie": "Extindere hală de producție Câmpia Turzii",
+    "beneficiar": "",
+    "locatie": "jud.Cluj",
+    "an_proiectare": "",
+    "thumbnail": "/images/industrial/extindere_hala_productie_campia_turzii/extindere_hala_productie_campia_turzii_1.jpg",
+    "path": "extindere_hala_productie_campia_turzii",
+    "galleryImages": [
+      {
+        "src": "/images/industrial/extindere_hala_productie_campia_turzii/extindere_hala_productie_campia_turzii_1.jpg"
+      },
+      {
+        "src": "/images/industrial/extindere_hala_productie_campia_turzii/extindere_hala_productie_campia_turzii_2.jpg"
+      },
+      {
+        "src": "/images/industrial/extindere_hala_productie_campia_turzii/extindere_hala_productie_campia_turzii_3.jpg"
+      },
+      {
+        "src": "/images/industrial/extindere_hala_productie_campia_turzii/extindere_hala_productie_campia_turzii_4.jpg"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "titlu_categorie": "Industrial",
+    "categorie": "industrial",
+    "subcategorie": "Hală depozitare Cluj",
+    "beneficiar": "",
+    "locatie": "jud.Cluj",
+    "an_proiectare": "",
+    "thumbnail": "/images/industrial/hala_depozitare_cluj/hala_depozitare_cluj_1.jpeg",
+    "path": "hala_depozitare_cluj",
+    "galleryImages": [
+      {
+        "src": "/images/industrial/hala_depozitare_cluj/hala_depozitare_cluj_1.jpeg"
+      },
+      {
+        "src": "/images/industrial/hala_depozitare_cluj/hala_depozitare_cluj_2.jpg"
+      },
+      {
+        "src": "/images/industrial/hala_depozitare_cluj/hala_depozitare_cluj_3.jpg"
+      },
+      {
+        "src": "/images/industrial/hala_depozitare_cluj/hala_depozitare_cluj_4.jpg"
+      },
+      {
+        "src": "/images/industrial/hala_depozitare_cluj/hala_depozitare_cluj_5.jpg"
+      },
+      {
+        "src": "/images/industrial/hala_depozitare_cluj/hala_depozitare_cluj_6.jpg"
+      },
+      {
+        "src": "/images/industrial/hala_depozitare_cluj/hala_depozitare_cluj_7.jpg"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "titlu_categorie": "Industrial",
+    "categorie": "industrial",
+    "subcategorie": "Hală depozitare Apahida",
+    "beneficiar": "",
+    "locatie": "jud.Cluj",
+    "an_proiectare": "",
+    "thumbnail": "/images/industrial/hala_depozitare_apahida/hala_depozitare_apahida_1.jpeg",
+    "path": "hala_depozitare_apahida",
+    "galleryImages": [
+      {
+        "src": "/images/industrial/hala_depozitare_apahida/hala_depozitare_apahida_1.jpeg"
+      },
+      {
+        "src": "/images/industrial/hala_depozitare_apahida/hala_depozitare_apahida_2.jpeg"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "titlu_categorie": "Turism",
+    "categorie": "turism",
+    "subcategorie": "Centru SPA și servicii medicale",
+    "beneficiar": "",
+    "locatie": "Zalău",
+    "an_proiectare": "",
+    "thumbnail": "/images/turism/centru_spa_servicii_medicale_zalau/centru_spa_servicii_medicale_zalau_1.jpg",
+    "path": "centru_spa_servicii_medicale_zalau",
+    "galleryImages": [
+      {
+        "src": "/images/turism/centru_spa_servicii_medicale_zalau/centru_spa_servicii_medicale_zalau_1.jpg"
+      },
+      {
+        "src": "/images/turism/centru_spa_servicii_medicale_zalau/centru_spa_servicii_medicale_zalau_2.jpg"
+      },
+      {
+        "src": "/images/turism/centru_spa_servicii_medicale_zalau/centru_spa_servicii_medicale_zalau_3.jpg"
+      },
+      {
+        "src": "/images/turism/centru_spa_servicii_medicale_zalau/centru_spa_servicii_medicale_zalau_4.jpg"
+      },
+      {
+        "src": "/images/turism/centru_spa_servicii_medicale_zalau/centru_spa_servicii_medicale_zalau_5.jpg"
+      },
+      {
+        "src": "/images/turism/centru_spa_servicii_medicale_zalau/centru_spa_servicii_medicale_zalau_6.jpg"
+      },
+      {
+        "src": "/images/turism/centru_spa_servicii_medicale_zalau/centru_spa_servicii_medicale_zalau_7.jpg"
+      },
+      {
+        "src": "/images/turism/centru_spa_servicii_medicale_zalau/centru_spa_servicii_medicale_zalau_8.jpg"
+      },
+      {
+        "src": "/images/turism/centru_spa_servicii_medicale_zalau/centru_spa_servicii_medicale_zalau_9.jpg"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "titlu_categorie": "Turism",
+    "categorie": "turism",
+    "subcategorie": "Centru turistic Horoatu Crasnei ",
+    "beneficiar": "",
+    "locatie": "Horoatu Crasnei, jus. Sălaj",
+    "an_proiectare": "",
+    "thumbnail": "/images/turism/centru_horoatu_crasnei/centru_horoatu_crasnei_1.jpg",
+    "path": "centru_horoatu_crasnei",
+    "galleryImages": [
+      {
+        "src": "/images/turism/centru_horoatu_crasnei/centru_horoatu_crasnei_1.jpg"
+      },
+      {
+        "src": "/images/turism/centru_horoatu_crasnei/centru_horoatu_crasnei_2.jpg"
+      },
+      {
+        "src": "/images/turism/centru_horoatu_crasnei/centru_horoatu_crasnei_3.jpg"
+      },
+      {
+        "src": "/images/turism/centru_horoatu_crasnei/centru_horoatu_crasnei_4.jpg"
+      },
+      {
+        "src": "/images/turism/centru_horoatu_crasnei/centru_horoatu_crasnei_5.jpg"
+      },
+      {
+        "src": "/images/turism/centru_horoatu_crasnei/centru_horoatu_crasnei_6.jpg"
+      },
+      {
+        "src": "/images/turism/centru_horoatu_crasnei/centru_horoatu_crasnei_7.jpg"
+      },
+      {
+        "src": "/images/turism/centru_horoatu_crasnei/centru_horoatu_crasnei_8.jpg"
+      },
+      {
+        "src": "/images/turism/centru_horoatu_crasnei/centru_horoatu_crasnei_9.jpg"
+      },
+      {
+        "src": "/images/turism/centru_horoatu_crasnei/centru_horoatu_crasnei_10.jpg"
+      },
+      {
+        "src": "/images/turism/centru_horoatu_crasnei/centru_horoatu_crasnei_11.jpg"
+      },
+      {
+        "src": "/images/turism/centru_horoatu_crasnei/centru_horoatu_crasnei_12.jpg"
+      },
+      {
+        "src": "/images/turism/centru_horoatu_crasnei/centru_horoatu_crasnei_13.jpg"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "titlu_categorie": "Turism",
+    "categorie": "turism",
+    "subcategorie": "Cabana Sânpaul ",
+    "beneficiar": "",
+    "locatie": "jud. Cluj",
+    "an_proiectare": "",
+    "thumbnail": "/images/turism/cabana_sanpaul/cabana_sanpaul_1.jpg",
+    "path": "cabana_sanpaul",
+    "galleryImages": [
+      {
+        "src": "/images/turism/cabana_sanpaul/cabana_sanpaul_1.jpg"
+      },
+      {
+        "src": "/images/turism/cabana_sanpaul/cabana_sanpaul_2.jpg"
+      },
+      {
+        "src": "/images/turism/cabana_sanpaul/cabana_sanpaul_3.jpg"
+      },
+      {
+        "src": "/images/turism/cabana_sanpaul/cabana_sanpaul_4.jpg"
+      },
+      {
+        "src": "/images/turism/cabana_sanpaul/cabana_sanpaul_5.jpg"
+      },
+      {
+        "src": "/images/turism/cabana_sanpaul/cabana_sanpaul_6.jpg"
+      },
+      {
+        "src": "/images/turism/cabana_sanpaul/cabana_sanpaul_7.jpg"
+      },
+      {
+        "src": "/images/turism/cabana_sanpaul/cabana_sanpaul_8.jpg"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "titlu_categorie": "Turism",
+    "categorie": "turism",
+    "subcategorie": "Cabana Băișoara ",
+    "beneficiar": "",
+    "locatie": "jud. Cluj",
+    "an_proiectare": "",
+    "thumbnail": "/images/turism/cabana_baisoara/cabana_baisoara_1.jpg",
+    "path": "cabana_baisoara",
+    "galleryImages": [
+      {
+        "src": "/images/turism/cabana_baisoara/cabana_baisoara_1.jpg"
+      },
+      {
+        "src": "/images/turism/cabana_baisoara/cabana_baisoara_2.jpg"
+      },
+      {
+        "src": "/images/turism/cabana_baisoara/cabana_baisoara_3.jpg"
+      },
+      {
+        "src": "/images/turism/cabana_baisoara/cabana_baisoara_4.jpg"
+      },
+      {
+        "src": "/images/turism/cabana_baisoara/cabana_baisoara_5.jpg"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "titlu_categorie": "Turism",
+    "categorie": "turism",
+    "subcategorie": "Cabana Muntele Bocului ",
+    "beneficiar": "",
+    "locatie": "jud. Cluj",
+    "an_proiectare": "",
+    "thumbnail": "/images/turism/cabana_muntele_bocului/cabana_muntele_bocului_1.jpg",
+    "path": "cabana_muntele_bocului",
+    "galleryImages": [
+      {
+        "src": "/images/turism/cabana_muntele_bocului/cabana_muntele_bocului_1.jpg"
+      },
+      {
+        "src": "/images/turism/cabana_muntele_bocului/cabana_muntele_bocului_2.jpg"
+      },
+      {
+        "src": "/images/turism/cabana_muntele_bocului/cabana_muntele_bocului_3.jpg"
+      },
+      {
+        "src": "/images/turism/cabana_muntele_bocului/cabana_muntele_bocului_4.jpg"
+      },
+      {
+        "src": "/images/turism/cabana_muntele_bocului/cabana_muntele_bocului_5.jpg"
+      },
+      {
+        "src": "/images/turism/cabana_muntele_bocului/cabana_muntele_bocului_6.jpg"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "titlu_categorie": "Turism",
+    "categorie": "turism",
+    "subcategorie": "Pensiune Popești ",
+    "beneficiar": "",
+    "locatie": "jud. Cluj",
+    "an_proiectare": "",
+    "thumbnail": "/images/turism/pensiune_popesti/pensiune_popesti_1.jpg",
+    "path": "pensiune_popesti",
+    "galleryImages": [
+      {
+        "src": "/images/turism/pensiune_popesti/pensiune_popesti_1.jpg"
+      },
+      {
+        "src": "/images/turism/pensiune_popesti/pensiune_popesti_2.jpg"
+      },
+      {
+        "src": "/images/turism/pensiune_popesti/pensiune_popesti_3.jpg"
+      },
+      {
+        "src": "/images/turism/pensiune_popesti/pensiune_popesti_4.jpg"
+      },
+      {
+        "src": "/images/turism/pensiune_popesti/pensiune_popesti_5.jpg"
+      },
+      {
+        "src": "/images/turism/pensiune_popesti/pensiune_popesti_6.jpg"
+      },
+      {
+        "src": "/images/turism/pensiune_popesti/pensiune_popesti_7.jpg"
+      },
+      {
+        "src": "/images/turism/pensiune_popesti/pensiune_popesti_8.jpg"
+      },
+      {
+        "src": "/images/turism/pensiune_popesti/pensiune_popesti_9.jpg"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "titlu_categorie": "Turism",
+    "categorie": "turism",
+    "subcategorie": "Cabana Valea Ierii ",
+    "beneficiar": "",
+    "locatie": "jud. Cluj",
+    "an_proiectare": "",
+    "thumbnail": "/images/turism/cabana_valea_ierii/cabana_valea_ierii_1.jpg",
+    "path": "cabana_valea_ierii",
+    "galleryImages": [
+      {
+        "src": "/images/turism/cabana_valea_ierii/cabana_valea_ierii_1.jpg"
+      },
+      {
+        "src": "/images/turism/cabana_valea_ierii/cabana_valea_ierii_2.jpg"
+      },
+      {
+        "src": "/images/turism/cabana_valea_ierii/cabana_valea_ierii_3.jpg"
+      },
+      {
+        "src": "/images/turism/cabana_valea_ierii/cabana_valea_ierii_4.jpg"
+      },
+      {
+        "src": "/images/turism/cabana_valea_ierii/cabana_valea_ierii_5.jpg"
+      },
+      {
+        "src": "/images/turism/cabana_valea_ierii/cabana_valea_ierii_6.jpg"
+      },
+      {
+        "src": "/images/turism/cabana_valea_ierii/cabana_valea_ierii_7.jpg"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "titlu_categorie": "Turism",
+    "categorie": "turism",
+    "subcategorie": "Pensiunea lunca Ilvei ",
+    "beneficiar": "",
+    "locatie": "jud. Bistrița-Năsăud",
+    "an_proiectare": "",
+    "thumbnail": "/images/turism/pensiune_lunca_ilvei/pensiune_lunca_ilvei_1.jpg",
+    "path": "pensiune_lunca_ilvei",
+    "galleryImages": [
+      {
+        "src": "/images/turism/pensiune_lunca_ilvei/pensiune_lunca_ilvei_1.jpg"
+      },
+      {
+        "src": "/images/turism/pensiune_lunca_ilvei/pensiune_lunca_ilvei_2.jpg"
+      },
+      {
+        "src": "/images/turism/pensiune_lunca_ilvei/pensiune_lunca_ilvei_3.jpg"
+      },
+      {
+        "src": "/images/turism/pensiune_lunca_ilvei/pensiune_lunca_ilvei_4.jpg"
+      },
+      {
+        "src": "/images/turism/pensiune_lunca_ilvei/pensiune_lunca_ilvei_5.jpg"
+      },
+      {
+        "src": "/images/turism/pensiune_lunca_ilvei/pensiune_lunca_ilvei_1.jpg"
+      },
+      {
+        "src": "/images/turism/pensiune_lunca_ilvei/pensiune_lunca_ilvei_1.jpg"
+      },
+      {
+        "src": "/images/turism/pensiune_lunca_ilvei/pensiune_lunca_ilvei_1.jpg"
+      },
+      {
+        "src": "/images/turism/pensiune_lunca_ilvei/pensiune_lunca_ilvei_1.jpg"
+      },
+      {
+        "src": "/images/turism/pensiune_lunca_ilvei/pensiune_lunca_ilvei_1.jpg"
+      },
+      {
+        "src": "/images/turism/pensiune_lunca_ilvei/pensiune_lunca_ilvei_1.jpg"
+      },
+      {
+        "src": "/images/turism/pensiune_lunca_ilvei/pensiune_lunca_ilvei_1.jpg"
+      },
+      {
+        "src": "/images/turism/pensiune_lunca_ilvei/pensiune_lunca_ilvei_1.jpg"
+      },
+      {
+        "src": "/images/turism/pensiune_lunca_ilvei/pensiune_lunca_ilvei_1.jpg"
+      },
+      {
+        "src": "/images/turism/pensiune_lunca_ilvei/pensiune_lunca_ilvei_1.jpg"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "titlu_categorie": "Birouri",
+    "categorie": "birouri",
+    "subcategorie": "Clădire administrativă ",
+    "beneficiar": "",
+    "locatie": "jud. Cluj",
+    "an_proiectare": "",
+    "thumbnail": "/images/birouri/cladire_administrativa_cluj/cladire_administrativa_cluj_1.jpg",
+    "path": "cladire_administrativa_cluj",
+    "galleryImages": [
+      {
+        "src": "/images/birouri/cladire_administrativa_cluj/cladire_administrativa_cluj_1.jpg"
+      },
+      {
+        "src": "/images/birouri/cladire_administrativa_cluj/cladire_administrativa_cluj_2.jpg"
+      },
+      {
+        "src": "/images/birouri/cladire_administrativa_cluj/cladire_administrativa_cluj_3.jpg"
+      },
+      {
+        "src": "/images/birouri/cladire_administrativa_cluj/cladire_administrativa_cluj_4.jpg"
+      },
+      {
+        "src": "/images/birouri/cladire_administrativa_cluj/cladire_administrativa_cluj_5.jpg"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "titlu_categorie": "Birouri",
+    "categorie": "birouri",
+    "subcategorie": "Imobil administrativ ",
+    "beneficiar": "",
+    "locatie": "jud.Satu Mare",
+    "an_proiectare": "",
+    "thumbnail": "/images/birouri/imobil_administrativ_satu_mare/imobil_administrativ_satu_mare_1.jpg",
+    "path": "cladire_administrativa_cluj",
+    "galleryImages": [
+      {
+        "src": "/images/birouri/imobil_administrativ_satu_mare/imobil_administrativ_satu_mare_1.jpg"
+      },
+      {
+        "src": "/images/birouri/imobil_administrativ_satu_mare/imobil_administrativ_satu_mare_2.jpg"
+      },
+      {
+        "src": "/images/birouri/imobil_administrativ_satu_mare/imobil_administrativ_satu_mare_3.jpg"
+      },
+      {
+        "src": "/images/birouri/imobil_administrativ_satu_mare/imobil_administrativ_satu_mare_4.jpg"
+      },
+      {
+        "src": "/images/birouri/imobil_administrativ_satu_mare/imobil_administrativ_satu_mare_5.jpg"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "titlu_categorie": "Birouri",
+    "categorie": "birouri",
+    "subcategorie": "A.Imobil de birouri ",
+    "beneficiar": "",
+    "locatie": "Cluj-Napoca",
+    "an_proiectare": "",
+    "thumbnail": "/images/birouri/imobil_birouri_A/imobil_birouri_A_1.jpg",
+    "path": "imobil_birouri_A",
+    "galleryImages": [
+      {
+        "src": "/images/birouri/imobil_birouri_A/imobil_birouri_A_1.jpg"
+      },
+      {
+        "src": "/images/birouri/imobil_birouri_A/imobil_birouri_A_2.jpg"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "titlu_categorie": "Birouri",
+    "categorie": "birouri",
+    "subcategorie": "B.Imobil de birouri ",
+    "beneficiar": "",
+    "locatie": "Cluj-Napoca",
+    "an_proiectare": "",
+    "thumbnail": "/images/birouri/imobil_birouri_B/imobil_birouri_B_1.jpg",
+    "path": "imobil_birouri_B",
+    "galleryImages": [
+      {
+        "src": "/images/birouri/imobil_birouri_B/imobil_birouri_B_1.jpg"
+      },
+      {
+        "src": "/images/birouri/imobil_birouri_B/imobil_birouri_B_2.jpg"
+      },
+      {
+        "src": "/images/birouri/imobil_birouri_B/imobil_birouri_B_3.jpg"
+      },
+      {
+        "src": "/images/birouri/imobil_birouri_B/imobil_birouri_B_4.jpg"
+      },
+      {
+        "src": "/images/birouri/imobil_birouri_B/imobil_birouri_B_5.jpg"
+      },
+      {
+        "src": "/images/birouri/imobil_birouri_B/imobil_birouri_B_6.jpg"
+      },
+      {
+        "src": "/images/birouri/imobil_birouri_B/imobil_birouri_B_7.jpg"
+      },
+      {
+        "src": "/images/birouri/imobil_birouri_B/imobil_birouri_B_8.jpg"
+      },
+      {
+        "src": "/images/birouri/imobil_birouri_B/imobil_birouri_B_9.jpg"
+      },
+      {
+        "src": "/images/birouri/imobil_birouri_B/imobil_birouri_B_10.jpg"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "titlu_categorie": "Birouri",
+    "categorie": "birouri",
+    "subcategorie": "C.Imobil de birouri ",
+    "beneficiar": "",
+    "locatie": "Cluj-Napoca",
+    "an_proiectare": "",
+    "thumbnail": "/images/birouri/imobil_birouri_C/imobil_birouri_C_1.jpg",
+    "path": "imobil_birouri_C",
+    "galleryImages": [
+      {
+        "src": "/images/birouri/imobil_birouri_C/imobil_birouri_C_1.jpg"
+      },
+      {
+        "src": "/images/birouri/imobil_birouri_C/imobil_birouri_C_2.jpg"
+      },
+      {
+        "src": "/images/birouri/imobil_birouri_C/imobil_birouri_C_3.jpg"
+      },
+      {
+        "src": "/images/birouri/imobil_birouri_C/imobil_birouri_C_4.jpg"
+      },
+      {
+        "src": "/images/birouri/imobil_birouri_C/imobil_birouri_C_5.jpg"
+      },
+      {
+        "src": "/images/birouri/imobil_birouri_C/imobil_birouri_C_6.jpg"
+      },
+      {
+        "src": "/images/birouri/imobil_birouri_C/imobil_birouri_C_7.jpg"
+      },
+      {
+        "src": "/images/birouri/imobil_birouri_C/imobil_birouri_C_8.jpg"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "titlu_categorie": "Birouri",
+    "categorie": "birouri",
+    "subcategorie": "D.Imobil de birouri ",
+    "beneficiar": "",
+    "locatie": "Cluj-Napoca",
+    "an_proiectare": "",
+    "thumbnail": "/images/birouri/imobil_birouri_D/imobil_birouri_D_1.jpg",
+    "path": "imobil_birouri_D",
+    "galleryImages": [
+      {
+        "src": "/images/birouri/imobil_birouri_B/imobil_birouri_B_1.jpg"
+      },
+      {
+        "src": "/images/birouri/imobil_birouri_B/imobil_birouri_B_2.jpg"
+      },
+      {
+        "src": "/images/birouri/imobil_birouri_B/imobil_birouri_B_3.jpg"
+      },
+      {
+        "src": "/images/birouri/imobil_birouri_B/imobil_birouri_B_4.jpg"
+      },
+      {
+        "src": "/images/birouri/imobil_birouri_B/imobil_birouri_B_5.jpg"
+      },
+      {
+        "src": "/images/birouri/imobil_birouri_B/imobil_birouri_B_6.jpg"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "titlu_categorie": "Biserici",
+    "categorie": "biserici",
+    "subcategorie": "Biserica Valea Ierii ",
+    "beneficiar": "",
+    "locatie": "Cluj-Napoca",
+    "an_proiectare": "",
+    "thumbnail": "/images/biserici/biserica_valea_ierii/biserica_valea_ierii_1.jpg",
+    "path": "biserica_valea_ierii",
+    "galleryImages": [
+      {
+        "src": "/images/biserici/biserica_valea_ierii/biserica_valea_ierii_1.jpg"
+      },
+      {
+        "src": "/images/biserici/biserica_valea_ierii/biserica_valea_ierii_2.jpg"
+      },
+      {
+        "src": "/images/biserici/biserica_valea_ierii/biserica_valea_ierii_3.jpg"
+      },
+      {
+        "src": "/images/biserici/biserica_valea_ierii/biserica_valea_ierii_4.jpg"
+      },
+      {
+        "src": "/images/biserici/biserica_valea_ierii/biserica_valea_ierii_5.jpg"
+      },
+      {
+        "src": "/images/biserici/biserica_valea_ierii/biserica_valea_ierii_6.jpg"
+      },
+      {
+        "src": "/images/biserici/biserica_valea_ierii/biserica_valea_ierii_7.jpg"
+      },
+      {
+        "src": "/images/biserici/biserica_valea_ierii/biserica_valea_ierii_8.jpg"
+      },
+      {
+        "src": "/images/biserici/biserica_valea_ierii/biserica_valea_ierii_9.jpg"
+      },
+      {
+        "src": "/images/biserici/biserica_valea_ierii/biserica_valea_ierii_10.jpg"
+      },
+      {
+        "src": "/images/biserici/biserica_valea_ierii/biserica_valea_ierii_11.jpg"
+      },
+      {
+        "src": "/images/biserici/biserica_valea_ierii/biserica_valea_ierii_12.jpg"
+      },
+      {
+        "src": "/images/biserici/biserica_valea_ierii/biserica_valea_ierii_13.jpg"
+      },
+      {
+        "src": "/images/biserici/biserica_valea_ierii/biserica_valea_ierii_14.jpg"
+      },
+      {
+        "src": "/images/biserici/biserica_valea_ierii/biserica_valea_ierii_15.jpg"
+      },
+      {
+        "src": "/images/biserici/biserica_valea_ierii/biserica_valea_ierii_16.jpg"
+      },
+      {
+        "src": "/images/biserici/biserica_valea_ierii/biserica_valea_ierii_17.jpg"
+      },
+      {
+        "src": "/images/biserici/biserica_valea_ierii/biserica_valea_ierii_18.jpg"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "titlu_categorie": "Biserici",
+    "categorie": "biserici",
+    "subcategorie": "Biserica Starciu-Meses ",
+    "beneficiar": "",
+    "locatie": "jud. Sălaj",
+    "an_proiectare": "",
+    "thumbnail": "/images/biserici/biserica_starciu_meses/biserica_starciu_meses_1.jpg",
+    "path": "biserica_starciu_meses",
+    "galleryImages": [
+      {
+        "src": "/images/biserici/biserica_starciu_meses/biserica_starciu_meses_1.jpg"
+      },
+      {
+        "src": "/images/biserici/biserica_starciu_meses/biserica_starciu_meses_2.jpg"
+      },
+      {
+        "src": "/images/biserici/biserica_starciu_meses/biserica_starciu_meses_3.jpg"
+      },
+      {
+        "src": "/images/biserici/biserica_starciu_meses/biserica_starciu_meses_4.jpg"
+      },
+      {
+        "src": "/images/biserici/biserica_starciu_meses/biserica_starciu_meses_5.jpg"
+      },
+      {
+        "src": "/images/biserici/biserica_starciu_meses/biserica_starciu_meses_6.jpg"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "titlu_categorie": "Biserici",
+    "categorie": "biserici",
+    "subcategorie": "Capela Cojocna ",
+    "beneficiar": "",
+    "locatie": "jud. Cluj",
+    "an_proiectare": "",
+    "thumbnail": "/images/biserici/capela_cojocna/capela_cojocna_1.jpg",
+    "path": "capela_cojocna",
+    "galleryImages": [
+      {
+        "src": "/images/biserici/capela_cojocna/capela_cojocna_1.jpg"
+      },
+      {
+        "src": "/images/biserici/capela_cojocna/capela_cojocna_2.jpg"
+      },
+      {
+        "src": "/images/biserici/capela_cojocna/capela_cojocna_3.jpg"
+      },
+      {
+        "src": "/images/biserici/capela_cojocna/capela_cojocna_4.jpg"
+      },
+      {
+        "src": "/images/biserici/capela_cojocna/capela_cojocna_5.jpg"
+      },
+      {
+        "src": "/images/biserici/capela_cojocna/capela_cojocna_6.jpg"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "titlu_categorie": "Biserici",
+    "categorie": "biserici",
+    "subcategorie": "Biserica Râmnicu Sărat ",
+    "beneficiar": "",
+    "locatie": "jud. Buzău",
+    "an_proiectare": "",
+    "thumbnail": "/images/biserici/biserica_ramnicu_sarat/biserica_ramnicu_sarat_1.jpg",
+    "path": "biserica_ramnicu_sarat",
+    "galleryImages": [
+      {
+        "src": "/images/biserici/biserica_ramnicu_sarat/biserica_ramnicu_sarat_1.jpg"
+      },
+      {
+        "src": "/images/biserici/biserica_ramnicu_sarat/biserica_ramnicu_sarat_2.jpg"
+      },
+      {
+        "src": "/images/biserici/biserica_ramnicu_sarat/biserica_ramnicu_sarat_3.jpg"
+      },
+      {
+        "src": "/images/biserici/biserica_ramnicu_sarat/biserica_ramnicu_sarat_4.jpg"
+      },
+      {
+        "src": "/images/biserici/biserica_ramnicu_sarat/biserica_ramnicu_sarat_5.jpg"
+      },
+      {
+        "src": "/images/biserici/biserica_ramnicu_sarat/biserica_ramnicu_sarat_6.jpg"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "titlu_categorie": "Publice",
+    "categorie": "publice",
+    "subcategorie": "Club Bowling  Cluj-Napoca",
+    "beneficiar": "",
+    "locatie": "jud. Cluj",
+    "an_proiectare": "",
+    "thumbnail": "/images/publice/club_bowling_cluj/club_bowling_cluj_1.jpg",
+    "path": "club_bowling_cluj",
+    "galleryImages": [
+      {
+        "src": "/images/publice/club_bowling_cluj/club_bowling_cluj_1.jpg"
+      },
+      {
+        "src": "/images/publice/club_bowling_cluj/club_bowling_cluj_2.jpg"
+      },
+      {
+        "src": "/images/publice/club_bowling_cluj/club_bowling_cluj_3.jpg"
+      },
+      {
+        "src": "/images/publice/club_bowling_cluj/club_bowling_cluj_4.jpg"
+      },
+      {
+        "src": "/images/publice/club_bowling_cluj/club_bowling_cluj_5.jpg"
+      },
+      {
+        "src": "/images/publice/club_bowling_cluj/club_bowling_cluj_6.jpg"
+      },
+      {
+        "src": "/images/publice/club_bowling_cluj/club_bowling_cluj_7.jpg"
+      },
+      {
+        "src": "/images/publice/club_bowling_cluj/club_bowling_cluj_8.jpg"
+      },
+      {
+        "src": "/images/publice/club_bowling_cluj/club_bowling_cluj_9.jpg"
+      },
+      {
+        "src": "/images/publice/club_bowling_cluj/club_bowling_cluj_10.jpg"
+      },
+      {
+        "src": "/images/publice/club_bowling_cluj/club_bowling_cluj_11.jpg"
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "titlu_categorie": "Publice",
+    "categorie": "publice",
+    "subcategorie": "Pârtie de schi Feleac ",
+    "beneficiar": "",
+    "locatie": "jud. Cluj",
+    "an_proiectare": "",
+    "thumbnail": "/images/publice/partie_schi_feleac/partie_schi_feleac_1.jpg",
+    "path": "partie_schi_feleac",
+    "galleryImages": [
+      {
+        "src": "/images/sociale/partie_schi_feleac/partie_schi_feleac_1.jpg"
+      },
+      {
+        "src": "/images/sociale/partie_schi_feleac/partie_schi_feleac_2.jpg"
+      },
+      {
+        "src": "/images/sociale/partie_schi_feleac/partie_schi_feleac_3.jpg"
+      },
+      {
+        "src": "/images/sociale/partie_schi_feleac/partie_schi_feleac_4.jpg"
+      },
+      {
+        "src": "/images/sociale/partie_schi_feleac/partie_schi_feleac_5.jpg"
+      },
+      {
+        "src": "/images/sociale/partie_schi_feleac/partie_schi_feleac_6.jpg"
+      },
+      {
+        "src": "/images/sociale/partie_schi_feleac/partie_schi_feleac_7.jpg"
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "titlu_categorie": "Publice",
+    "categorie": "publice",
+    "subcategorie": "Conservator Cluj-Napoca ",
+    "beneficiar": "",
+    "locatie": "jud. Cluj",
+    "an_proiectare": "",
+    "thumbnail": "/images/publice/conservator_cluj_napoca/conservator_cluj_napoca_1.jpg",
+    "path": "conservator_cluj_napoca",
+    "galleryImages": [
+      {
+        "src": "/images/sociale/conservator_cluj_napoca/conservator_cluj_napoca_1.jpg"
+      },
+      {
+        "src": "/images/sociale/conservator_cluj_napoca/conservator_cluj_napoca_2.jpg"
+      },
+      {
+        "src": "/images/sociale/conservator_cluj_napoca/conservator_cluj_napoca_3.jpg"
+      },
+      {
+        "src": "/images/sociale/conservator_cluj_napoca/conservator_cluj_napoca_4.jpg"
+      },
+      {
+        "src": "/images/sociale/conservator_cluj_napoca/conservator_cluj_napoca_5.jpg"
+      },
+      {
+        "src": "/images/sociale/conservator_cluj_napoca/conservator_cluj_napoca_6.jpg"
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "titlu_categorie": "Publice",
+    "categorie": "publice",
+    "subcategorie": "Centru de cercetare ",
+    "beneficiar": "",
+    "locatie": "jud. Cluj",
+    "an_proiectare": "",
+    "thumbnail": "/images/publice/centru_cercetare_cluj/centru_cercetare_cluj_1.jpg",
+    "path": "centru_cercetare_cluj",
+    "galleryImages": [
+      {
+        "src": "/images/sociale/centru_cercetare_cluj/centru_cercetare_cluj_1.jpg"
+      },
+      {
+        "src": "/images/sociale/centru_cercetare_cluj/centru_cercetare_cluj_2.jpg"
+      },
+      {
+        "src": "/images/sociale/centru_cercetare_cluj/centru_cercetare_cluj_3.jpg"
+      },
+      {
+        "src": "/images/sociale/centru_cercetare_cluj/centru_cercetare_cluj_4.jpg"
+      },
+      {
+        "src": "/images/sociale/centru_cercetare_cluj/centru_cercetare_cluj_5.jpg"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "titlu_categorie": "Publice",
+    "categorie": "publice",
+    "subcategorie": "Ateliere de creație UAD  ",
+    "beneficiar": "",
+    "locatie": "Cluj-Napoca",
+    "an_proiectare": "",
+    "thumbnail": "/images/publice/ateliere_creatie_UAD/ateliere_creatie_UAD_1.jpg",
+    "path": "ateliere_creatie_UAD",
+    "galleryImages": [
+      {
+        "src": "/images/sociale/ateliere_creatie_UAD/ateliere_creatie_UAD_1.jpg"
+      },
+      {
+        "src": "/images/sociale/ateliere_creatie_UAD/ateliere_creatie_UAD_2.jpg"
+      },
+      {
+        "src": "/images/sociale/ateliere_creatie_UAD/ateliere_creatie_UAD_3.jpg"
+      },
+      {
+        "src": "/images/sociale/ateliere_creatie_UAD/ateliere_creatie_UAD_4.jpg"
+      },
+      {
+        "src": "/images/sociale/ateliere_creatie_UAD/ateliere_creatie_UAD_5.jpg"
+      },
+      {
+        "src": "/images/sociale/ateliere_creatie_UAD/ateliere_creatie_UAD_6.jpg"
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "titlu_categorie": "Urbanism",
+    "categorie": "urbanism",
+    "subcategorie": "Urbanism ",
+    "beneficiar": "",
+    "locatie": "Cluj-Napoca",
+    "path": "urbanism",
+    "galleryImages": [
+      {
+        "src": "/images/urbanism/Plan Urbanistic de Detaliu AMGD-1.jpg",
+        "descriere": "Plan Urbanistic de Detaliu AMGD-1"
+      },
+      {
+        "src": "/images/urbanism/Plan Urbanistic de Detaliu Beyfin Somesului-1.jpg",
+        "descriere": "Plan Urbanistic de Detaliu Beyfin Somesului-1"
+      },
+      {
+        "src": "/images/urbanism/Plan Urbanistic de Detaliu Biserica Sf. Ioan-1.jpg",
+        "descriere": "Plan Urbanistic de Detaliu Biserica Sf. Ioan-1"
+      },
+      {
+        "src": "/images/urbanism/Plan Urbanistic de Detaliu Floresti-1.jpg",
+        "descriere": "Plan Urbanistic de Detaliu Floresti-1"
+      },
+      {
+        "src": "/images/urbanism/Plan Urbanistic Zonal Borhanci.jpg",
+        "descriere": "Plan Urbanistic Zonal Borhanci"
+      },
+      {
+        "src": "/images/urbanism/Plan Urbanistic Zonal Feleac.jpg",
+        "descriere": "Plan Urbanistic Zonal Feleac"
+      },
+      {
+        "src": "/images/urbanism/Plan Urbanistic Zonal Manastur-Grigorescu.jpg",
+        "descriere": "Plan Urbanistic Zonal Manastur-Grigorescu"
+      },
+      {
+        "src": "/images/urbanism/Plan Urbanistic Zonal Somesului.jpg",
+        "descriere": "Plan Urbanistic Zonal Somesului"
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "titlu_categorie": "Amenajări",
+    "categorie": "amenajari",
+    "subcategorie": "Magazin Cluj-Napoca  ",
+    "beneficiar": "",
+    "locatie": "",
+    "an_proiectare": "",
+    "thumbnail": "/images/amenajari/magazin_cluj_napoca/magazin_cluj_napoca_1.jpg",
+    "path": "magazin_cluj_napoca",
+    "galleryImages": [
+      {
+        "src": "/images/amenajari/magazin_cluj_napoca/magazin_cluj_napoca_1.jpg"
+      },
+      {
+        "src": "/images/amenajari/magazin_cluj_napoca/magazin_cluj_napoca_2.jpg"
+      },
+
+      {
+        "src": "/images/amenajari/magazin_cluj_napoca/magazin_cluj_napoca_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "titlu_categorie": "Amenajări",
+    "categorie": "amenajari",
+    "subcategorie": "Apartament Cluj-Napoca  ",
+    "beneficiar": "",
+    "locatie": "",
+    "an_proiectare": "",
+    "thumbnail": "/images/amenajari/apartament_cluj/apartament_cluj_1.jpg",
+    "path": "apartament_cluj",
+    "galleryImages": [
+      {
+        "src": "/images/amenajari/apartament_cluj/apartament_cluj_1.jpg"
+      },
+      {
+        "src": "/images/amenajari/apartament_cluj/apartament_cluj_2.jpg"
+      },
+
+      {
+        "src": "/images/amenajari/apartament_cluj/apartament_cluj_3.jpg"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "titlu_categorie": "Amenajări",
+    "categorie": "amenajari",
+    "subcategorie": "Casă Popești ",
+    "beneficiar": "",
+    "locatie": "jud. Cluj",
+    "an_proiectare": "",
+    "thumbnail": "/images/amenajari/casa_popesti/casa_popesti_1.jpg",
+    "path": "casa_popesti",
+    "galleryImages": [
+      {
+        "src": "/images/amenajari/casa_popesti/casa_popesti_1.jpg"
+      },
+      {
+        "src": "/images/amenajari/casa_popesti/casa_popesti_2.jpg"
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "titlu_categorie": "Amenajări",
+    "categorie": "amenajari",
+    "subcategorie": "Casă Sibiu ",
+    "beneficiar": "",
+    "locatie": "jud. Sibiu",
+    "an_proiectare": "",
+    "thumbnail": "/images/amenajari/casa_sibiu/casa_sibiu_1.jpg",
+    "path": "casa_sibiu",
+    "galleryImages": [
+      {
+        "src": "/images/amenajari/casa_sibiu/casa_sibiu_1.jpg"
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "titlu_categorie": "Amenajări",
+    "categorie": "amenajari",
+    "subcategorie": "Farmacie Cluj-Napoca ",
+    "beneficiar": "",
+    "locatie": "",
+    "an_proiectare": "",
+    "thumbnail": "/images/amenajari/firma_farmacie_cluj/firma_farmacie_cluj_1.jpg",
+    "path": "firma_farmacie_cluj",
+    "galleryImages": [
+      {
+        "src": "/images/amenajari/firma_farmacie_cluj/firma_farmacie_cluj_1.jpg"
+      },
+      {
+        "src": "/images/amenajari/firma_farmacie_cluj/firma_farmacie_cluj_1.jpg"
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "titlu_categorie": "Amenajări",
+    "categorie": "amenajari",
+    "subcategorie": "Amenajare peisagistică ",
+    "beneficiar": "",
+    "locatie": "",
+    "an_proiectare": "",
+    "thumbnail": "/images/amenajari/amenajare_peisagistica_cluj/amenajare_peisagistica_cluj_1.jpg",
+    "path": "amenajare_peisagistica_cluj",
+    "galleryImages": [
+      {
+        "src": "/images/amenajari/amenajare_peisagistica_cluj/amenajare_peisagistica_cluj_1.jpg"
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "titlu_categorie": "Amenajări",
+    "categorie": "amenajari",
+    "subcategorie": "Restaurare cuier",
+    "beneficiar": "",
+    "locatie": "",
+    "an_proiectare": "",
+    "thumbnail": "/images/amenajari/restaurare_cuier/restaurare_cuier_1.jpg",
+    "path": "restaurare_cuier",
+    "galleryImages": [
+      {
+        "src": "/images/amenajari/restaurare_cuier/restaurare_cuier_1.jpg"
+      },
+      {
+        "src": "/images/amenajari/restaurare_cuier/restaurare_cuier_2.jpg"
+      },
+      {
+        "src": "/images/amenajari/restaurare_cuier/restaurare_cuier_3.jpg"
+      },
+      {
+        "src": "/images/amenajari/restaurare_cuier/restaurare_cuier_4.jpg"
+      },
+      {
+        "src": "/images/amenajari/restaurare_cuier/restaurare_cuier_5.jpg"
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "titlu_categorie": "Concursuri",
+    "categorie": "concursuri",
+    "subcategorie": "Sighetu Marmației Loc 1",
+    "beneficiar": "",
+    "locatie": "",
+    "an_proiectare": "",
+    "thumbnail": "/images/concursuri/sighetu_marmatiei_loc_1/sighetu_marmatiei_loc_1_1.jpg",
+    "path": "sighetu_marmatiei_loc_1",
+    "galleryImages": [
+      {
+        "src": "/images/concursuri/sighetu_marmatiei_loc_1/sighetu_marmatiei_loc_1_1.jpg"
+      },
+      {
+        "src": "/images/concursuri/sighetu_marmatiei_loc_1/sighetu_marmatiei_loc_1_2.jpg"
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "titlu_categorie": "Concursuri",
+    "categorie": "concursuri",
+    "subcategorie": "BATRA 2013 nominalizare",
+    "beneficiar": "",
+    "locatie": "",
+    "an_proiectare": "",
+    "thumbnail": "/images/concursuri/batra_2013_nominalizare/batra_2013_nominalizare.jpg",
+    "path": "sighetu_marmatiei_loc_1",
+    "galleryImages": [
+      {
+        "src": "/images/concursuri/batra_2013_nominalizare/batra_2013_nominalizare.jpg"
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "titlu_categorie": "Concursuri",
+    "categorie": "concursuri",
+    "subcategorie": "Concurs AMGD Cluj-Napoca Loc 3",
+    "beneficiar": "",
+    "locatie": "",
+    "an_proiectare": "",
+    "thumbnail": "/images/concursuri/campus_amgd_cluj_loc_3/campus_amgd_cluj_loc_3_1.jpg",
+    "path": "campus_amgd_cluj_loc_3",
+    "galleryImages": [
+      {
+        "src": "/images/concursuri/campus_amgd_cluj_loc_3/campus_amgd_cluj_loc_3_1.jpg",
+        "descriere": "Plan sală de concerte"
+      },
+      {
+        "src": "/images/concursuri/campus_amgd_cluj_loc_3/campus_amgd_cluj_loc_3_2.jpg",
+        "descriere": "Fațadă posterioară"
+      },
+      {
+        "src": "/images/concursuri/campus_amgd_cluj_loc_3/campus_amgd_cluj_loc_3_3.jpg",
+        "descriere": "Fațadă principală"
+      },
+      {
+        "src": "/images/concursuri/campus_amgd_cluj_loc_3/campus_amgd_cluj_loc_3_4.jpg",
+        "descriere": "Poze prin satelit teren AMGD"
+      },
+      {
+        "src": "/images/concursuri/campus_amgd_cluj_loc_3/campus_amgd_cluj_loc_3_5.jpg",
+        "descriere": "Poză sit concurs AMGD"
+      },
+      {
+        "src": "/images/concursuri/campus_amgd_cluj_loc_3/campus_amgd_cluj_loc_3_6.jpg",
+        "descriere": "Poză sit concurs AMGD"
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "titlu_categorie": "Concursuri",
+    "categorie": "concursuri",
+    "subcategorie": "Amenajare urbană Oradea",
+    "beneficiar": "",
+    "locatie": "",
+    "an_proiectare": "",
+    "thumbnail": "/images/concursuri/amenajare_urbana_oradea/amenajare_urbana_oradea_1.jpg",
+    "path": "amenajare_urbana_oradea",
+    "galleryImages": [
+      {
+        "src": "/images/concursuri/amenajare_urbana_oradea/amenajare_urbana_oradea_1.jpg"
+      },
+      {
+        "src": "/images/concursuri/amenajare_urbana_oradea/amenajare_urbana_oradea_2.jpg"
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "titlu_categorie": "Concursuri",
+    "categorie": "concursuri",
+    "subcategorie": "BATRA 2015 Sălaj Nominalizare",
+    "beneficiar": "",
+    "locatie": "Crasna, Sălaj",
+    "an_proiectare": "",
+    "thumbnail": "/images/concursuri/batra_2015_nominalizare/batra_2015_nominalizare_1.jpg",
+    "path": "batra_2015_nominalizare",
+    "galleryImages": [
+      {
+        "src": "/images/concursuri/batra_2015_nominalizare/batra_2015_nominalizare_1.jpg"
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "titlu_categorie": "Expoziții",
+    "categorie": "expozitii",
+    "subcategorie": "",
+    "beneficiar": "",
+    "locatie": "",
+    "an_proiectare": "",
+    "thumbnail": "/images/expozitii/expozitii_1.jpg",
+    "path": "expozitii",
+    "galleryImages": [
+      {
+        "src": "/images/expozitii/expozitii_1.jpg",
+        "descriere": "Centru informații"
+      },
+      {
+        "src": "/images/expozitii/expozitii_2.jpg",
+        "descriere": "   Restaurare biserica din Starciu"
+      },
+      {
+        "src": "/images/expozitii/expozitii_3.jpg",
+        "descriere": "Ansamblu de locuit panou 1"
+      },
+      {
+        "src": "/images/expozitii/expozitii_4.jpg",
+        "descriere": "Ansamblu de locuit panou 2"
+      },
+      {
+        "src": "/images/expozitii/expozitii_5.jpg",
+        "descriere": "Casa albă"
+      },
+      {
+        "src": "/images/expozitii/expozitii_6.jpg",
+        "descriere": "Casa C-panou 1"
+      },
+      {
+        "src": "/images/expozitii/expozitii_7.jpg",
+        "descriere": "Casa C-panou 1 "
+      },
+      {
+        "src": "/images/expozitii/expozitii_8.jpg",
+        "descriere": "Căsuță cu pridvor panou 1"
+      },
+      {
+        "src": "/images/expozitii/expozitii_9.jpg",
+        "descriere": "Căsuță cu pridvor panou 2"
+      },
+      {
+        "src": "/images/expozitii/expozitii_10.jpg",
+        "descriere": "Clădire publică panou 1"
+      },
+      {
+        "src": "/images/expozitii/expozitii_11.jpg",
+        "descriere": "Clădire publică panou 2"
+      },
+      {
+        "src": "/images/expozitii/expozitii_12.jpg",
+        "descriere": "Cuier pom "
+      },
+      {
+        "src": "/images/expozitii/expozitii_13.jpg",
+        "descriere": "Pensiune turistică panou 1"
+      },
+      {
+        "src": "/images/expozitii/expozitii_14.jpg",
+        "descriere": "Pensiune turistică panou 2"
+      },
+      {
+        "src": "/images/expozitii/expozitii_15.jpg",
+        "descriere": "SSPFN semnal Sighetu Marmației"
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "titlu_categorie": "Schițe",
+    "categorie": "schite",
+    "subcategorie": "",
+    "beneficiar": "",
+    "locatie": "",
+    "an_proiectare": "",
+    "thumbnail": "/images/schite/schite_1.jpg",
+    "path": "schite",
+    "galleryImages": [
+      {
+        "src": "/images/schite/schite_1.jpg",
+        "descriere": "Casă"
+      },
+      {
+        "src": "/images/schite/schite_2.jpg",
+        "descriere": " Bloc"
+      },
+      {
+        "src": "/images/schite/schite_3.jpg",
+        "descriere": "Industrial"
+      },
+      {
+        "src": "/images/schite/schite_4.jpg",
+        "descriere": "Turism"
+      },
+      {
+        "src": "/images/schite/schite_5.jpg",
+        "descriere": "Birou"
+      },
+      {
+        "src": "/images/schite/schite_6.jpg",
+        "descriere": "Biserică"
+      },
+      {
+        "src": "/images/schite/schite_7.jpg",
+        "descriere": "Social "
+      },
+      {
+        "src": "/images/schite/schite_8.jpg",
+        "descriere": "Amenajare"
+      },
+      {
+        "src": "/images/schite/schite_9.jpg",
+        "descriere": ""
+      },
+      {
+        "src": "/images/schite/schite_10.jpg",
+        "descriere": ""
+      },
+      {
+        "src": "/images/schite/schite_11.jpg",
+        "descriere": ""
+      },
+      {
+        "src": "/images/schite/schite_12.jpg",
+        "descriere": ""
+      },
+      {
+        "src": "/images/schite/schite_13.jpg",
+        "descriere": ""
+      },
+      {
+        "src": "/images/schite/schite_14.jpg",
+        "descriere": ""
+      },
+      {
+        "src": "/images/schite/schite_15.jpg",
+        "descriere": ""
+      },
+      {
+        "src": "/images/schite/schite_16.jpg",
+        "descriere": ""
+      },
+      {
+        "src": "/images/schite/schite_17.jpg",
+        "descriere": ""
+      },
+      {
+        "src": "/images/schite/schite_18.jpg",
+        "descriere": ""
+      },
+      {
+        "src": "/images/schite/schite_19.jpg",
+        "descriere": ""
+      },
+      {
+        "src": "/images/schite/schite_20.jpg",
+        "descriere": ""
+      },
+      {
+        "src": "/images/schite/schite_21.jpg",
+        "descriere": ""
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "titlu_categorie": "Certificări",
+
+    "galleryImages": [
+      {
+        "src": "/images/certificari/diploma_arhitect.jpg",
+        "descriere": "Diplomă de arhitect"
+      },
+      {
+        "src": "/images/certificari/certificat_RUR.jpg",
+        "descriere": "Certificat RUR"
+      },
+      {
+        "src": "/images/certificari/atestat_EAG.jpg",
+        "descriere": "Atestat EAG"
+      },
+      {
+        "src": "/images/certificari/atestat_IUG.jpg",
+        "descriere": "Atestat IUG"
+      },
+      {
+        "src": "/images/certificari/certificat_OAR.jpg",
+        "descriere": "Certificat OAR"
+      }
+    ]
+  }
+]

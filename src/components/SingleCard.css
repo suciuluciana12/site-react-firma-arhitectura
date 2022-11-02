@@ -1,0 +1,25 @@
+.singleCard {
+  width: 150px;
+  height: 260px;
+  margin-top: 10px;
+  position: relative;
+  text-align: center;
+  cursor: pointer;
+}
+.singleCard:hover {
+  transform: scale(1.02);
+}
+.cardImage {
+  width: 150px;
+  height: 150px;
+}
+.cardTitle {
+  font-size: 17px;
+}
+.cardLink {
+  color: #009ffd;
+  position: absolute;
+  bottom: 5px;
+  left: 50%;
+  transform: translateX(-50%);
+}

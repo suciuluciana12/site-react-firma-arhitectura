@@ -1,0 +1,22 @@
+.row-img > * {
+  padding: 0;
+  margin: 0;
+}
+.row-img img {
+  height: 50vh;
+}
+
+.card-componenta {
+  width: 50%;
+  margin-top: -70px;
+}
+@media only screen and (max-width: 1000px) {
+  .card-componenta {
+    width: 80%;
+  }
+}
+@media only screen and (min-width: 1200px) {
+  .row-img img {
+    height: 70vh;
+  }
+}
